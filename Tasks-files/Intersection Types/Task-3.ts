@@ -1,0 +1,2 @@
+// Problem 3: Make a type `User` with `username: string` and a type `Verified` with `isVerified: true`.
+// Create a function `sendVerifiedBadge(user: User & Verified)` that logs `'Badge sent to username'`.
